@@ -19,8 +19,8 @@ Display the equalized grayscale image.
 
 ## Program:
 ```python
-# Developed By: Y Chethan
-# Register Number: 212220230008
+# Developed By: B.Kavya
+# Register Number: 212220230007
 
 import cv2
 import matplotlib.pyplot as plt
